@@ -11,8 +11,8 @@
   },
   "require": {
     "tecnickcom/tc-lib-barcode": "^1.17",
-    "monolog/monolog": "^2.7",
-    "symfony/http-foundation": "^6.0"
+    "monolog/monolog": "^3.3",
+    "symfony/http-foundation": "^6.2"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
